@@ -1,0 +1,16 @@
+{
+  "name": "node-in-docker",
+  "version": "1.0.0",
+  "description": "nodejs image demo",
+  "author": "oblique owl",
+  "license": "MIT",
+  "main": "app.js",
+  "keywords": [
+    "nodejs",
+    "bootstrap",
+    "express"
+  ],
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
